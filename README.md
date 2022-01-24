@@ -1,4 +1,4 @@
-# cds-service-example-nodejs
+# cds-service
 
 [![Build Status](https://travis-ci.org/cds-hooks/cds-service-example-nodejs.svg?branch=master)](https://travis-ci.org/cds-hooks/cds-service-example-nodejs)
 [![devDependency Status](https://david-dm.org/cds-hooks/cds-service-example-nodejs.svg)](https://david-dm.org/cds-hooks/cds-service-example-nodejs)
